@@ -1,0 +1,6 @@
+domain: x-helm.dev
+layout:
+- go.kubebuilder.io/v3
+projectName: hwf
+repo: github.com/tamalsaha/hwf
+version: "3"
